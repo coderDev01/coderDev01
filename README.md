@@ -1,1 +1,15 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderDev01)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1 align="center">Hi, TANMAY here 👋</h1>
+
+- 👨‍🎓 3rd year UG at **Dept. of Computer Science and Technology, IIEST, Shibpur**
+- 💻 Prior experience with **ReactJS, NuxtJS, VueJS, JavaScript, Python, Flutter, C** and **C++**
+- 📫 My social profiles **https://linktr.ee/arnabsen**
+
+👨‍💻 I am a Software Developer with experience in Web Development. For the past 2 years, I have worked around an immense variety of technologies and frameworks such as React, Vue in Frontend and Node, Flask, Rails in the Backend.
+
+
+<hr>
+
+<hr>
+
+|<img src="https://github-readme-stats.vercel.app/api?username=devCoder01&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=devCoder01&theme=dark&hide_border=true"/>|
