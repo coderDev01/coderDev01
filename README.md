@@ -11,4 +11,4 @@
 
 <hr>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=coderDev01&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderDev01&theme=dark&hide_border=true"/>
+|<img src="https://github-readme-stats.vercel.app/api?username=coderDev01&show_icons=true&theme=radical&text_color=fff&title_color=66d4c3&icon_color=#7affe7"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderDev01&theme=dark&hide_border=true"/>
