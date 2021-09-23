@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, TANMAY here 👋</h1>
+### Hi, Tanmay here 👋
 
 - 👨‍🎓 3rd year UG at **Dept. of Computer Science and Technology, IIEST, Shibpur**
 - 💻 Prior experience with **ReactJS, NuxtJS, VueJS, JavaScript, Python, Flutter, C** and **C++**
@@ -12,4 +12,4 @@
 
 <hr>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=coderDev01&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderDev01&theme=dark&hide_border=true"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=coderDev01&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderDev01&theme=dark&hide_border=true"/>
